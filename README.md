@@ -15,7 +15,7 @@ Además, se contaba con un archivo JSON que tenía la información de las catego
 - El proyecto de analítica ha conseguido transformar exitosamente la data en conocimiento, obteniendo modelos capaces de predecir likes, dislikes y views.
 - Es posible mejorar la precisión de los modelos aumentando la cantidad de datos.
 - En el periodo del 14 de Noviembre de 2017 al 14 de Junio de 2018 en Alemania la mayor parte de los videos que fueron tendencia pertenecían a la categoría “Entertainment”, en el mismo contexto las categorías menos populares fueron “Trailers” y “Movies”.
--  
+-  En el periodo del 14 de noviembre de 2017 al 14 de junio de 2018 en Alemania, de los videos que fueron tendencia, la categoría que recibió más likes fue la de “Entertainment”, esto obedece al hecho que la mayoría de vídeos tendencia en este periodo pertenece a dicha categoría; por lo cual, no representa el “engagement” de los usuarios con la categoría.
 - En el periodo del 14 de noviembre de 2017 al 14 de junio de 2018 en Alemania, de los videos que fueron tendencia, la categoría “Autos & Vehicles” fue la que tuvo una mejor proporción (ratio) de likes/dislikes.
 - En el periodo del 14 de noviembre de 2017 al 14 de junio de 2018 en Alemania, de los videos que fueron tendencia, la categoría “Shows” fue la que tuvo mejor proporción (ratio) de vistas/comentarios.
 - En el periodo del 14 de noviembre de 2017 al 14 de junio de 2018, el volumen de los videos que estuvieron en tendencia se mantuvo en un rango aceptable, a excepción de cortos periodos en donde esta cantidad bajó significativamente.
